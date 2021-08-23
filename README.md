@@ -23,5 +23,6 @@
     
 <p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=devdreamsolution&column=7&theme=onedark"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=WebDevSand&column=7&theme=onedark"/>
 </p>
 
