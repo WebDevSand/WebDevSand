@@ -1,7 +1,7 @@
 
 ### Senior Web Developer with more than 10 years experience in web and app
 #### ABOUT ME
-
+   
 - 🚀 I respect and understand your needs, my goal is to give you 100%-satisfaction.
 - 👍 Always, I will achieve effectiveness, high quality, and fastest delivery, maintenance.
 - 👨‍🎓 I strive to make today better than yesterday, I value self-development and continuous improvement.
