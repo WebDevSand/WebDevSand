@@ -9,7 +9,7 @@
 - ✨ I will implement your great ideas to be live perfectly.
 - 📫 Contact me **[Join on Skype](https://join.skype.com/invite/vY0vcIWz9FsC)** and **<a href="mailto:sandking19850512@gmail.com">Send Mail</a>** if you need my help.
 
-#### MY SKILLS
+#### MY SKILLS 
     ★ Frontend(Html5, CSS3, SCSS, Javascript, jQuery,Bootstrap,Typescript)
     ★ Backend(NodeJS, PHP, Ruby on Rails, Coldfusion, Python, Django)
     ★ Database(SQL, NoSQL, ORM, PostgreSQL, Firebase ,MySQL,MongoDB, Mongoose)
