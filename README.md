@@ -1,5 +1,5 @@
 
-### Senior Web Developer with more than 10 years experience in web and app 
+### Senior Web Developer with more than 10 years experience in web and app  
 #### ABOUT ME    
    
 - 🚀 I respect and understand your needs, my goal is to give you 100%-satisfaction.
