@@ -17,7 +17,7 @@
 <a href="https://join.skype.com/invite/vY0vcIWz9FsC" rel="nofollow"><img align="left" alt="Sabesan | Skype" height="22px" src="https://github.com/sabesansathananthan/sabesansathananthan/raw/master/SocialLogo/Skype.png" style="max-width:100%;"></a>
 <br />
 
-#### MY SKILLS 
+### Languages and Tools:
     ★ Frontend(Html5, CSS3, SCSS, Javascript, jQuery,Bootstrap,Typescript)
     ★ Backend(NodeJS, PHP, Ruby on Rails, Coldfusion, Python, Django)
     ★ Database(SQL, NoSQL, ORM, PostgreSQL, Firebase ,MySQL,MongoDB, Mongoose)
@@ -27,11 +27,6 @@
     ★ Python, Django, Flask, Scrapy, Pillow
     ★ Selenium webdriver
     ★ Netsuite
-    
-### Languages and Tools:
-<a href="https://github-readme-stats.WebDevSand.vercel.app/api/top-langs/?username=WebDevSand&layout=compact&theme=radical">
-  <img align="center" src="https://github-readme-stats.WebDevSand.vercel.app/api/top-langs/?username=WebDevSand&layout=compact&theme=radical" />
-</a>
 
 [<code>
 <img alt="visual studio code" width="26px" src="https://img.icons8.com/fluent/240/000000/visual-studio-code-2019.png" />
