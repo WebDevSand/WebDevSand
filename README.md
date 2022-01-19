@@ -9,10 +9,12 @@
 - 😃 Have a Project in your Mind?
 - ✨ I will implement your great ideas to be live perfectly.
 - 📫 Contact me **[Join on Skype](https://join.skype.com/invite/vY0vcIWz9FsC)** and **<a href="mailto:sandking19850512@gmail.com">Send Mail</a>** if you need my help.
--
-   <a href="https://wa.me/447542904592" rel="nofollow"><img align="left" alt="Sabesan | Whatsapp" height="22px" src="https://github.com/sabesansathananthan/sabesansathananthan/raw/master/SocialLogo/WhatsApp.png" style="max-width:100%;"></a>
-<a href="https://telegram.me/beatificangel" rel="nofollow"><img align="left" alt="Sabesan | Telegram" height="22px" src="https://github.com/sabesansathananthan/sabesansathananthan/raw/master/SocialLogo/Telegram.png" style="max-width:100%;"></a>
-<a href="https://join.skype.com/invite/Ft4e8jgCb9M5" rel="nofollow"><img align="left" alt="Sabesan | Skype" height="22px" src="https://github.com/sabesansathananthan/sabesansathananthan/raw/master/SocialLogo/Skype.png" style="max-width:100%;"></a>
+
+#### CONTACT ME 
+
+<a href="https://wa.me/380662789210" rel="nofollow"><img align="left" alt="Sabesan | Whatsapp" height="22px" src="https://github.com/sabesansathananthan/sabesansathananthan/raw/master/SocialLogo/WhatsApp.png" style="max-width:100%;"></a>
+<a href="https://telegram.me/webdev512" rel="nofollow"><img align="left" alt="Sabesan | Telegram" height="22px" src="https://github.com/sabesansathananthan/sabesansathananthan/raw/master/SocialLogo/Telegram.png" style="max-width:100%;"></a>
+<a href="https://join.skype.com/invite/vY0vcIWz9FsC" rel="nofollow"><img align="left" alt="Sabesan | Skype" height="22px" src="https://github.com/sabesansathananthan/sabesansathananthan/raw/master/SocialLogo/Skype.png" style="max-width:100%;"></a>
 <br />
 
 #### MY SKILLS 
