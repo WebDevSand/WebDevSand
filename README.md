@@ -29,7 +29,9 @@
     ★ Netsuite
     
 ### Languages and Tools:
-<img align="center" alt="sabesan's Github Stats" src="https://github-readme-stats.sabesansathananthan.vercel.app/api?username=sabesansathananthan&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" /></a>
+<a href="https://github-readme-stats.WebDevSand.vercel.app/api/top-langs/?username=WebDevSand&layout=compact&theme=radical">
+  <img align="center" src="https://github-readme-stats.WebDevSand.vercel.app/api/top-langs/?username=WebDevSand&layout=compact&theme=radical" />
+</a>
 
 [<code>
 <img alt="visual studio code" width="26px" src="https://img.icons8.com/fluent/240/000000/visual-studio-code-2019.png" />
