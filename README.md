@@ -19,7 +19,7 @@
 
 ### Languages and Tools:
     ★ Frontend(Html5, CSS3, SCSS, Javascript, jQuery,Bootstrap,Typescript)
-    ★ Backend(NodeJS, PHP, Ruby on Rails, Coldfusion, Python, Django)
+    ★ Backend(NodeJS, ExpressJS, PHP, Ruby on Rails, Coldfusion, Python, Django)
     ★ Database(SQL, NoSQL, ORM, PostgreSQL, Firebase ,MySQL,MongoDB, Mongoose)
     ★ MVC frameworks(Laravel,Codeigniter,Wordpress,CakePHP,Yii etc)
     ★ DevOps(Apache, AWS, Amazon Elastic Beanstalk, ECS, EC2,CloudWatch, Serverless, AWS Lambda, Google Cloud, Docker, Docker Compose)
